@@ -1,3 +1,24 @@
+# React TSX Demo - Calculator
+## DEMO: https://stackblitz.com/edit/stackblitz-starters-vdvgky?file=README.md
+
+Adjustments: 
+
+1) Imported existing example https://github.com/tuanpham-dev/calculator-react-typescript on StackBlitz
+StackBlitz: https://stackblitz.com/edit/stackblitz-starters-vdvgky?file=README.md
+
+2) Removed sloppy CSS and styling components
+
+3) Added SCSS for Components and generated styling
+
+
+![image](https://github.com/TobiasSchaeuble-EH/ReactTSXCalculatorDemo/assets/50451429/4b4fbd39-85e8-4dc0-8a0b-5b75d00b70e9)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Original Repo README from:
+https://github.com/tuanpham-dev/calculator-react-typescript 
+---------
+
+
 # Calculator in React and TypeScript
 A working calculator in React and TypeScript. https://tuanpham-dev.github.io/calculator-react-typescript/
 
