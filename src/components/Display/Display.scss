@@ -1,0 +1,26 @@
+.display {
+    background-color: #252525;
+    color: #fff;
+    padding: 20px 30px;
+    font-size: 1.8em;
+    max-width: 320px;  // Same width as the Pad
+    border-bottom: 1px solid #e0e0e0;  // Gives a nice separator between the display and the pad
+  
+    .top-section {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.7em;
+  
+      .memory-indicator {
+        color: #f00;
+        margin-right: 10px;
+      }
+    }
+  
+    .value {
+      word-break: break-all;
+      text-align: right;
+      margin-top: 10px; // Separation from expression
+    }
+  }
